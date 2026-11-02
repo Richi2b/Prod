@@ -1,0 +1,6 @@
+{
+  "name": "PREÇO JUSTO ANGOLA",
+  "description": "Plataforma PWA de comparação de preços e cabaz familiar nos armazéns e mercearias de Luanda, Angola. Poupa nas compras, compara e escolhe melhor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

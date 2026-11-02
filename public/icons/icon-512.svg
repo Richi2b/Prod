@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#059669"/>
+  <!-- Bag / Price tag icon -->
+  <path d="M156 180 V140 C156 84.77 200.77 40 256 40 C311.23 40 356 84.77 356 140 V180 H390 C406.57 180 420 193.43 420 210 L396 430 C394.5 444 382.5 454 368.5 454 H143.5 C129.5 454 117.5 444 116 430 L92 210 C92 193.43 105.43 180 122 180 H156 Z M200 180 H312 V140 C312 109.07 286.93 84 256 84 C225.07 84 200 109.07 200 140 V180 Z" fill="#FFFFFF"/>
+  <!-- Kz Symbol in center -->
+  <text x="256" y="350" font-family="Plus Jakarta Sans, sans-serif" font-size="100" font-weight="900" fill="#059669" text-anchor="middle">Kz</text>
+</svg>

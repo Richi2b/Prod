@@ -1,0 +1,22 @@
+{
+  "name": "PREÇO JUSTO ANGOLA",
+  "short_name": "Preço Justo",
+  "description": "Compara preços nos armazéns e mercearias de Luanda e poupa nas tuas compras.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#059669",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

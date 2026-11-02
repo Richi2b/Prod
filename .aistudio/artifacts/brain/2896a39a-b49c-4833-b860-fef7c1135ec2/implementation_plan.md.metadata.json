@@ -1,0 +1,6 @@
+{
+  "summary":  "Documento de Planeamento Arquitetural Completo (Fase 1) para o PREÇO JUSTO ANGOLA. Contém a análise de produto, arquitetura de monólito modular Laravel/MySQL, modelo de dados normalizado com diagrama ERD e histórico imutável de preços, fluxos de utilizador com foco em armazéns e mercearias de Luanda, Design System mobile-first PWA, estratégia de segurança (Lei 22/11 de Angola e OWASP), diretrizes de baixo consumo de dados móveis, plano de testes, cronograma faseado do MVP e análise de riscos técnicos e comerciais.",
+  "updatedAt":  "2026-11-02T11:06:50.142321266Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
